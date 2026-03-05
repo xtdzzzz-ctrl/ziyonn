@@ -9,10 +9,10 @@
 [rewrite_local]
 
 # Tab栏配置
-^https?:\/\/pan\.baidu\.com\/api\/.* url script-response-body https://raw.githubusercontent.com/xtdzzzz-ctrl/ziyonn/refs/heads/main/hupi.js
+^https?:\/\/pan\.baidu\.com\/api\/.* url script-response-body https://raw.githubusercontent.com/xtdzzzz-ctrl/ziyonn/refs/heads/main/hupi2.js
 
 # 我的页面
-^https?:\/\/pan\.baidu\.com\/rest\/2\.0\/membership\/proxy\/guide url script-response-body https://raw.githubusercontent.com/xtdzzzz-ctrl/ziyonn/refs/heads/main/hupi.js
+^https?:\/\/pan\.baidu\.com\/rest\/2\.0\/membership\/proxy\/guide url script-response-body https://raw.githubusercontent.com/xtdzzzz-ctrl/ziyonn/refs/heads/main/hupi2.js
 
 
 [mitm]
